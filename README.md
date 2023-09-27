@@ -9,7 +9,7 @@ I'm a career changer now thriving as a software engineer specializing in **Ruby,
 - ⚡ Fun fact: When I’m not behind a screen, you can find me exploring new destinations and food.
 
 ## Technologies & Tools
-Code: Ruby, JavaScript, SQL, Python
-Tools: Ruby on Rails, React, Node.Js,
+- Code: Ruby, JavaScript, SQL, Python
+- Tools: Ruby on Rails, React, Node.Js,
 
 
