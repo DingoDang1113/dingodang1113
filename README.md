@@ -1,6 +1,6 @@
 # 👋 Hello World, I'm Shali Peng!
 
-I'm a career changer now thriving as a software engineer specializing in **Ruby, JavaScript, SQL, and Python**.  With 6 years of experience in data analytics and reporting at JP Morgan Chase, I bring a wealth of insights into my coding projects. My academic background includes a Master's degree in Psychology from Columbia University which enriches my approach towards problem-solving in software development. I’m passionate about continuous learning and contributing to meaningful projects.
+Hello! I'm Shali Peng, a software engineer with a rich background in reporting and analytics within the HR realm. Throughout my eight years of professional experience, I've nurtured a passion for problem-solving through data. This journey illuminated the pivotal role tools play in crafting solutions and breaking boundaries. I revel in pushing limits, unlocking new possibilities for users, and it's this drive to innovate that motivated me to pivot and reboot my career. I'm on a mission to create efficient tools that bring tangible transformations to businesses.
 
 - 🔭 I’m currently working on [Trip Planner MERN Stack Project](https://tripplanner-mern-1f758b15cb93.herokuapp.com/)
 - 🌱 I’m currently learning Google Maps API
