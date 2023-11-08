@@ -2,8 +2,8 @@
 
 Hello! I'm Shali Peng, a software engineer with a rich background in reporting and analytics within the HR realm. Throughout my eight years of professional experience, I've nurtured a passion for problem-solving through data. This journey illuminated the pivotal role tools play in crafting solutions and breaking boundaries. I revel in pushing limits, unlocking new possibilities for users, and it's this drive to innovate that motivated me to pivot and reboot my career. I'm on a mission to create efficient tools that bring tangible transformations to businesses.
 
-- 🔭 I’m currently working on [Trip Planner MERN Stack Project](https://tripplanner-mern-1f758b15cb93.herokuapp.com/)
-- 🌱 I’m currently learning Google Maps API
+- 🔭 I’m currently working on [Orcasound Project](https://live.orcasound.net/)
+- 🌱 I’m currently learning Elixir and Docker
 - 👯 I’m looking to collaborate on open source/commercial projects
 - 📫 How to reach me: Shalpeng109@gmail.com
 - ⚡ Fun fact: Dingo is my dog's name
