@@ -2,7 +2,7 @@
 
 Hello! I'm Shali Peng, a software engineer with a rich background in reporting and analytics within the HR realm. Throughout my eight years of professional experience, I've nurtured a passion for problem-solving through data. This journey illuminated the pivotal role tools play in crafting solutions and breaking boundaries. I revel in pushing limits, unlocking new possibilities for users, and it's this drive to innovate that motivated me to pivot and reboot my career. I'm on a mission to create efficient tools that bring tangible transformations to businesses.
 
-- 🔭 I’m currently working on [weekday](https://github.com/DingoDang1113/FS_Project) 
+- 🔭 I’m currently refact my fullstack [weekday](https://github.com/DingoDang1113/FS_Project) with GOT themes! 
 - 🌱 I’m currently learning chatbot
 - 👯 I’m looking to collaborate on open source/commercial projects
 - 📫 How to reach me: Shalpeng109@gmail.com
