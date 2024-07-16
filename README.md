@@ -10,8 +10,6 @@ Hello! I'm Shali Peng, a software engineer with a rich background in reporting a
 
 ## Technologies & Tools
 
-## Technologies & Tools
-
 <p align="center">
   <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
   <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg"/>
