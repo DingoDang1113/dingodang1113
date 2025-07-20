@@ -5,8 +5,6 @@ Hello! I'm Shali Peng, a software engineer with a rich background in reporting a
 - 🔭 I’m currently working on **SwiftUI to develop iOS apps**
 - 🌱 I’m currently learning about **SwiftUI and MVVM Framwork**
 - 👯 I’m looking to collaborate on **open-source/commercial projects**
-- 📫 How to reach me: **[Shalpeng109@gmail.com](mailto:Shalpeng109@gmail.com)**
-- ⚡ Fun fact: **Dingo is my dog's name**
 
 ## Technologies & Tools
 
