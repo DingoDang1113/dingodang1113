@@ -1,10 +1,4 @@
-# 👋 Hello World, I'm Shali Peng!
 
-Hello! I'm Shali Peng, a software engineer with a rich background in reporting and analytics within the HR realm. Throughout my eight years of professional experience, I've nurtured a passion for problem-solving through data. This journey illuminated the pivotal role tools play in crafting solutions and breaking boundaries. I revel in pushing limits, unlocking new possibilities for users, and it's this drive to innovate that motivated me to pivot and reboot my career. I'm on a mission to create efficient tools that bring tangible transformations to businesses.
-
-- 🔭 I’m currently working on **SwiftUI to develop iOS apps**
-- 🌱 I’m currently learning about **SwiftUI and MVVM Framwork**
-- 👯 I’m looking to collaborate on **open-source/commercial projects**
 
 ## Technologies & Tools
 
